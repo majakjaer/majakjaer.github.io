@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
     shuang: {
       name: 'Shuang L. Frost',
       role: 'Professor · Aarhus Universitet',
-      text: 'To whom it may concern,
+      text: `To whom it may concern,
 I am pleased to recommend Maja Kjær, whose master’s thesis I supervised in the Master’s Degree in Information Studies at Aarhus University. Her thesis, Rethinking Clickability: Context-Dependent Dynamics in News Headline Performance, received a grade of 12. This is the highest grade on the Danish seven-point scale. Both the external reviewer and I commented it is one of the strongest master theses we have graded in recent years.
   
 Maja is easy to work with. She came to every supervision meeting prepared with draft material and specific questions, and she kept to every deadline we agreed on. She is also a quick learner. The thesis required her to acquire the tools of linguistic analysis and apply them to 22,690 Danish news headlines linked to click data. She measured headline complexity through the LIX readability index and a word-frequency weight computed against a Danish lexical corpus, coded content features such as numbers, direct address and punctuation, and added transformer-based topic modelling. Many of these methods was new to her, but she took up the initiative to learn them to produce a stronger thesis.
@@ -33,12 +33,29 @@ Yours sincerely,
 Shuang Lu Frost
 Associate Professor
 Department of Digital Design and Information Studies School of Communication and Culture, Aarhus University 
-shuangfrost@cc.au.dk'
+shuangfrost@cc.au.dk`
     },
     cecilie: {
       name: 'Cecilie Vestergaard',
       role: 'Business Intelligence Specialist · Vitec Visiolink',
-      text: 'Content unavailable at the moment'
+      text: `Anbefaling af Maja Kjær
+Jeg havde fornøjelsen af at være mentor for Maja Kjær under hendes praktikforløb hos Vitec Visiolink, hvor hun var en del af vores arbejde med data, analyse og business intelligence.
+
+Maja gjorde fra starten et rigtig godt indtryk. Hun er meget lærenem og har en naturlig nysgerrighed, som gør, at hun hurtigt sætter sig ind i nye områder og værktøjer. Hun er samtidig resursestærk og god til at finde løsninger, når hun møder udfordringer i sit arbejde. Hun arbejder selvstændigt og tager ansvar for sine opgaver, men er samtidig meget hjælpsom og god til at samarbejde med andre.
+
+I løbet af praktikforløbet arbejdede Maja blandt andet med dataudtræk, strukturering og analyse samt visualisering af data. Hun formåede at omsætte komplekse data til mere overskuelige indsigter og havde blik for både de tekniske detaljer og den forretningsmæssige sammenhæng. Hun var ikke bange for at stille spørgsmål eller undersøge nye muligheder, når hun stødte på noget, hun ikke kendte i forvejen.
+
+Maja har desuden en høj energi, som er smittende på kontoret. Hun møder nye opgaver og mennesker med en positiv indstilling og bidrager til et godt arbejdsmiljø omkring sig. Det var derfor en fornøjelse at have hende som en del af teamet.
+
+Jeg er også glad for, at Maja fik mulighed for at fortsætte samarbejdet med Vitec Visiolink i forbindelse med sit speciale. Her arbejdede hun videre med data og brugeradfærd og gennemførte et større selvstændigt projekt. Hendes flotte resultat er et godt udtryk for hendes faglige engagement og evne til at arbejde selvstændigt med komplekse problemstillinger.
+
+Jeg kan varmt anbefale Maja til en arbejdsplads, der søger en engageret, lærenem og løsningsorienteret medarbejder, som både kan arbejde selvstændigt og indgå positivt i et team.
+
+Cecilie Vestergaard
+Business Intelligence Specialist, Vitec Visiolink
+cecilie.vestergaard@vitecsoftware.com
++45 53 34 53 49`
+
     },
     jens: {
       name: 'Jens Kjær',
